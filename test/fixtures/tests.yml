@@ -2,10 +2,12 @@
 
 one:
   title: MyString
-  lewel: 1
+  level: 1
+  author: MyString
   category: one
 
 two:
   title: MyString
-  lewel: 1
+  level: 1
+  author: MyString
   category: two
