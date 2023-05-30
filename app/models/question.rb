@@ -1,3 +1,2 @@
-class Question < ApplicationRecord
-  
+class Question < ApplicationRecord 
 end
